@@ -1,5 +1,5 @@
 ### Hi there 👋. I’m Bernard Martis
-- 🌱 I’m currently learning functional programming in JavaScript
+- 🌱 I’m currently working through The Odin Project
 - 👀 I’m looking for a job as a Full Stack or Backend Java Developer
 - 📫 You can contact me via [LinkedIn](https://www.linkedin.com/in/bernard-martis) or via ![email](https://github.com/bernardm/bernardm/blob/main/email.png)
 
